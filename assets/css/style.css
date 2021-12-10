@@ -42,3 +42,21 @@ h1 {
 	border-color: lightskyblue;
 	margin: 10px;
 }
+
+article{
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+
+article h2{
+    font-family: "Poppins", sans-serif;
+	font-weight: bold;
+	color: steelblue;
+}
+
+article p{
+    color: steelblue;
+    border-style: solid;
+    border-width: 0 0 0 4px;
+}
