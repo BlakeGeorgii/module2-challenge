@@ -31,6 +31,12 @@ h1 {
     border: solid 4px steelblue;
 }
 
+.small-project{
+    background-image: url("../images/temp\ img.jpg");
+    height: 200px;
+    border: solid 4px steelblue;
+}
+
 .subtitle-div {
 	position: relative;
 	background-repeat: no-repeat;
