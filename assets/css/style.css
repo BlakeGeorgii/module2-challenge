@@ -30,7 +30,7 @@ h1 {
 .main-project {
 	background-image: url("../images/temp\ img.jpg");
     height: 500px;
-    border: solid 4px steelblue;
+    border: solid 4px lightskyblue;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -38,7 +38,7 @@ h1 {
 .small-project{
     background-image: url("../images/temp\ img.jpg");
     height: 200px;
-    border: solid 4px steelblue;
+    border: solid 4px lightskyblue;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -57,7 +57,7 @@ h1 {
 	background-color: lightskyblue;
 	padding: 0 15px 0 10px;
 	bottom: 15px;
-	right: 15px;
+	right: 0;
 	position: absolute;
 	border-radius: 0.25rem 0 0 0.25rem;
 }
@@ -88,3 +88,6 @@ article h2 {
 	border-width: 0 0 0 4px;
 }
 
+.contact{
+    text-align: center;
+}
