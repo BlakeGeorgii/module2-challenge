@@ -1,6 +1,7 @@
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
+html,
+body {
+	max-width: 100%;
+	overflow-x: hidden;
 }
 
 header {
@@ -20,31 +21,36 @@ h1 {
 	border-radius: 0 0.25rem 0.25rem 0;
 }
 
-h2{
-    text-align: center;
+h2 {
+	text-align: center;
+}
+
+h3 {
+	font-family: "Poppins", sans-serif;
+	font-weight: bold;
 }
 
 .space-img {
 	background-image: url("../images/space.png");
 	height: 200px;
-    background-size: cover;
-    background-repeat: no-repeat;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .main-project {
 	background-image: url("../images/temp\ img.jpg");
-    height: 500px;
-    border: solid 4px lightskyblue;
-    background-size: cover;
-    background-repeat: no-repeat;
+	height: 500px;
+	border: solid 4px lightskyblue;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
-.small-project{
-    background-image: url("../images/temp\ img.jpg");
-    height: 200px;
-    border: solid 4px lightskyblue;
-    background-size: cover;
-    background-repeat: no-repeat;
+.small-project {
+	background-image: url("../images/temp\ img.jpg");
+	height: 200px;
+	border: solid 4px lightskyblue;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .subtitle-div {
@@ -92,6 +98,6 @@ article h2 {
 	border-width: 0 0 0 4px;
 }
 
-.contact{
-    text-align: center;
+.contact {
+	text-align: center;
 }
