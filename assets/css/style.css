@@ -23,18 +23,24 @@ h1 {
 .space-img {
 	background-image: url("../images/space.png");
 	height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .main-project {
 	background-image: url("../images/temp\ img.jpg");
     height: 500px;
     border: solid 4px steelblue;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .small-project{
     background-image: url("../images/temp\ img.jpg");
     height: 200px;
     border: solid 4px steelblue;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .subtitle-div {
@@ -81,3 +87,4 @@ article h2 {
 	border-style: solid;
 	border-width: 0 0 0 4px;
 }
+
