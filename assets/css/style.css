@@ -47,18 +47,21 @@ h4{
 	background-repeat: no-repeat;
 }
 
+.project:hover {
+    transition-duration: 250ms;
+    opacity: 75%;
+}
+
 .main {
-	background-image: url("../images/temp\ img.jpg");
 	height: 500px;
 }
 
 .small {
-	background-image: url("../images/temp\ img.jpg");
 	height: 200px;
 }
 
 #recipe-warriors{
-    
+    background-image: url("../images/kO8Fnki.jpg");
 }
 
 .subtitle-div {
